@@ -7,7 +7,7 @@ We recommend users to create a virtual environment for DeepPhageFinder.
 `conda create --name dpf python=3.7 numpy keras=2.3.1 tensorflow=2.2.0 scikit-learn Biopython`  
 `source activate dpf`  
   
-If you want to train a new model from your customized dataset, we recommand:  
+If you want to train a new model from your customized dataset by using GPU(s), we recommand:  
 `conda create --name dpf_train python=3.7 numpy keras=2.3.1 tensorflow-gpu=2.2.0 scikit-learn Biopython`  
 `source activate dpf_train`
 ## Installation
