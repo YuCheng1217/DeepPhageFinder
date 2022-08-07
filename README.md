@@ -1,5 +1,5 @@
 # DeepPhageFinder
-DeepPhageFinder is a tool for identifying phage from metagenome. It is developed based on DeepVirFinder.
+DeepPhageFinder is a tool for identifying phage from metagenome. It is developed based on [DeepVirFinder](https://github.com/jessieren/DeepVirFinder).
 ## Description
 ## Dependencies
 We recommend users to create a virtual environment for DeepPhageFinder.  
